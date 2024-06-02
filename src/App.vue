@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="main">
     <h1>Dance Lesson Video Library</h1>
     <VideoList />
   </div>
@@ -16,4 +16,4 @@ export default {
 };
 </script>
 
-<!-- <style src="./styles/main.css"></style> -->
+<style src="./assets/main.css"></style>
