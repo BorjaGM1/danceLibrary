@@ -38,7 +38,7 @@ body {
   margin: 0;
   padding: 0;
   /* background-color: #f8f9fa; */
-  background-color: #f9e0e0;
+  background-color: black;
 }
 
 @media (max-width: 767px) {
@@ -52,11 +52,16 @@ body {
   max-width: 1200px;
   margin: 50px auto;
   padding: 20px;
-  background: #deffa0;
-  background-color: #deffa0;
+  background: black;
+  background-color: black;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  color: #00ff00;
 }
 
 h1 {
   text-align: center;
+  color: #00ff00;
+}
+p {
+  color: #00ff00;
 }

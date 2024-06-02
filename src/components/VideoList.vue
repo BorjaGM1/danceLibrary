@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-3">
         <VideoFilters :filters="filters" @applyFilters="applyFilters" />
@@ -10,7 +10,7 @@
             <input 
               v-model="filters.title" 
               @input="applyFilters(filters)" 
-              class="form-control" 
+              class="form-control bg-dark text-white border-secondary" 
               placeholder="Search by title"
             />
           </div>
@@ -22,7 +22,7 @@
             </div>
           </div>
           <div v-else>
-            <p>No videos found.</p>
+            <p class="text-white">No videos found.</p>
           </div>
         </div>
       </div>
@@ -72,8 +72,24 @@ export default {
 };
 </script>
 
-<style scoped>
-.container {
-  padding-top: 20px;
+<style>
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.card {
+  background-color: #1db954;
+  border: none;
+}
+
+.card .btn-success {
+  background-color: #1db954;
+  border-color: #1db954;
+}
+
+.filters .form-control,
+.filters .form-check-label {
+  color: #ffffff;
 }
 </style>

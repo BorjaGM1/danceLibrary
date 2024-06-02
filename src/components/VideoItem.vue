@@ -1,5 +1,5 @@
 <template>
-  <div class="video-item card h-100">
+  <div class="video-item card bg-dark text-white mb-3">
     <div class="card-body">
       <h5 class="card-title">{{ video.title }}</h5>
       <p class="card-text"><strong>Tipo:</strong> {{ video.danceType.join(", ") }}</p>
@@ -24,6 +24,6 @@ export default {
 
 <style scoped>
 .video-item {
-  margin-bottom: 20px;
+  border: 1px solid #1db954;
 }
 </style>
