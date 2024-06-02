@@ -6,14 +6,6 @@
       </div>
       <div class="col-md-9">
         <div class="row mb-3">
-          <div class="col-12">
-            <input 
-              v-model="filters.title" 
-              @input="applyFilters(filters)" 
-              class="form-control bg-dark text-white border-secondary" 
-              placeholder="Search by title"
-            />
-          </div>
         </div>
         <div class="row">
           <div v-if="filteredVideos.length">
