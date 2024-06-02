@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Salsa Beginners",
+      "url": "https://example.com/salsa-beginners.mp4",
+      "date": "2023-05-01",
+      "danceType": "Salsa",
+      "lessonType": "Beginner",
+      "teachers": ["John Doe", "Jane Smith"],
+      "level": "Beginner"
+    },
+    {
+      "title": "Advanced Tango Techniques",
+      "url": "https://example.com/tango-advanced.mp4",
+      "date": "2023-04-20",
+      "danceType": "Tango",
+      "lessonType": "Advanced",
+      "teachers": ["Emily Davis"],
+      "level": "Advanced"
+    }
+  ]
