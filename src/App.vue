@@ -1,17 +1,17 @@
 <template>
   <div id="main">
     <h1>Dance Lesson Video Library</h1>
-    <VideoList />
+    <MainVideoLibrary />
   </div>
 </template>
 
 <script>
-import VideoList from './components/VideoList.vue';
+import MainVideoLibrary from './components/MainVideoLibrary.vue';
 
 export default {
   name: 'App',
   components: {
-    VideoList
+    MainVideoLibrary
   }
 };
 </script>

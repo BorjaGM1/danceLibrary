@@ -1,51 +1,42 @@
 <template>
   <div class="filters">
-    <div class="filter-row">
-      <div class="filter-section">
-        <label for="search-title">Buscar por nombre</label>
-        <input id="search-title" v-model="filters.title" @input="updateFilters" placeholder="Search by title" />
-      </div>
-
-      <div class="filter-section">
-        <label for="start-date">Fecha Inicio</label>
-        <input id="start-date" type="date" v-model="filters.dateRange.start" @change="updateFilters" />
-      </div>
-
-      <div class="filter-section">
-        <label for="end-date">Fecha Fin</label>
-        <input id="end-date" type="date" v-model="filters.dateRange.end" @change="updateFilters" />
+    <div class="form-group">
+      <label for="search-title">Buscar por nombre</label>
+      <input id="search-title" v-model="filters.title" @input="updateFilters" class="form-control" placeholder="Search by title" />
+    </div>
+    <div class="form-group">
+      <label for="start-date">Fecha Inicio</label>
+      <input id="start-date" type="date" v-model="filters.dateRange.start" @change="updateFilters" class="form-control" />
+    </div>
+    <div class="form-group">
+      <label for="end-date">Fecha Fin</label>
+      <input id="end-date" type="date" v-model="filters.dateRange.end" @change="updateFilters" class="form-control" />
+    </div>
+    <div class="form-group">
+      <h5>Tipo</h5>
+      <div v-for="type in uniqueDanceTypes" :key="type" class="form-check">
+        <input type="checkbox" :value="type" v-model="filters.danceTypes" @change="updateFilters" class="form-check-input" /> 
+        <label class="form-check-label">{{ type }}</label>
       </div>
     </div>
-
-    <div class="filter-row">
-      <div class="filter-section">
-        <h3>Tipo</h3>
-        <div v-for="type in uniqueDanceTypes" :key="type">
-          <input type="checkbox" :value="type" v-model="filters.danceTypes" @change="updateFilters" /> {{ type }}
-        </div>
-      </div>
-
-      <div class="filter-section">
-        <h3>Tipo lección</h3>
-        <div v-for="type in uniqueLessonTypes" :key="type">
-          <input type="checkbox" :value="type" v-model="filters.lessonTypes" @change="updateFilters" /> {{ type }}
-        </div>
-      </div>
-
-      <div class="filter-section">
-        <h3>Profesores</h3>
-        <select v-model="filters.teachers" @change="updateFilters" multiple>
-          <option v-for="teacher in uniqueTeachers" :key="teacher" :value="teacher">{{ teacher }}</option>
-        </select>
+    <div class="form-group">
+      <h5>Tipo lección</h5>
+      <div v-for="type in uniqueLessonTypes" :key="type" class="form-check">
+        <input type="checkbox" :value="type" v-model="filters.lessonTypes" @change="updateFilters" class="form-check-input" /> 
+        <label class="form-check-label">{{ type }}</label>
       </div>
     </div>
-
-    <div class="filter-row">
-      <div class="filter-section">
-        <h3>Nivel</h3>
-        <div v-for="level in uniqueLevels" :key="level">
-          <input type="checkbox" :value="level" v-model="filters.levels" @change="updateFilters" /> {{ level }}
-        </div>
+    <div class="form-group">
+      <h5>Profesores</h5>
+      <select v-model="filters.teachers" @change="updateFilters" class="form-control" multiple>
+        <option v-for="teacher in uniqueTeachers" :key="teacher" :value="teacher">{{ teacher }}</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <h5>Nivel</h5>
+      <div v-for="level in uniqueLevels" :key="level" class="form-check">
+        <input type="checkbox" :value="level" v-model="filters.levels" @change="updateFilters" class="form-check-input" /> 
+        <label class="form-check-label">{{ level }}</label>
       </div>
     </div>
   </div>
@@ -95,33 +86,8 @@ export default {
 
 <style scoped>
 .filters {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.filter-row {
-  display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-
-.filter-section {
-  flex: 1;
-  min-width: 200px;
-}
-
-.filter-section h3 {
-  margin: 0;
-}
-
-.filter-section label {
-  display: block;
-  margin-bottom: 5px;
-}
-
-.filter-section select {
-  width: 100%;
-  height: 100px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
 }
 </style>
