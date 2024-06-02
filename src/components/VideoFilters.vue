@@ -89,5 +89,6 @@ export default {
   padding: 15px;
   border: 1px solid #ddd;
   border-radius: 4px;
+  background-color: #f8f9fa;
 }
 </style>

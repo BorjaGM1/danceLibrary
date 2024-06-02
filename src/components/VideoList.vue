@@ -1,11 +1,31 @@
 <template>
-  <div>
-    <VideoFilters :filters="filters" @applyFilters="applyFilters" />
-    <div v-if="filteredVideos.length">
-      <VideoItem v-for="video in filteredVideos" :key="video.title" :video="video" />
-    </div>
-    <div v-else>
-      <p>No videos found.</p>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <VideoFilters :filters="filters" @applyFilters="applyFilters" />
+      </div>
+      <div class="col-md-9">
+        <div class="row mb-3">
+          <div class="col-12">
+            <input 
+              v-model="filters.title" 
+              @input="applyFilters(filters)" 
+              class="form-control" 
+              placeholder="Search by title"
+            />
+          </div>
+        </div>
+        <div class="row">
+          <div v-if="filteredVideos.length">
+            <div class="col-md-4" v-for="video in filteredVideos" :key="video.title">
+              <VideoItem :video="video" />
+            </div>
+          </div>
+          <div v-else>
+            <p>No videos found.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -52,6 +72,8 @@ export default {
 };
 </script>
 
-<style>
-/* Add basic styles here if needed */
+<style scoped>
+.container {
+  padding-top: 20px;
+}
 </style>
