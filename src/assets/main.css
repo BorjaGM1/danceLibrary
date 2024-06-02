@@ -41,8 +41,15 @@ body {
   background-color: #f9e0e0;
 }
 
+@media (max-width: 767px) {
+  .content {
+      max-width: 100%; /* Full width for mobile devices */
+      /* padding: 0 20px; Optional: add padding to the sides */
+  }
+}
+
 #app {
-  max-width: 800px;
+  max-width: 1200px;
   margin: 50px auto;
   padding: 20px;
   background: #deffa0;
