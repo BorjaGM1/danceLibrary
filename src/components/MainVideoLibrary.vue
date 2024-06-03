@@ -41,7 +41,7 @@ export default {
   data() {
     return {
       videos,
-      filteredVideos: videos,
+      filteredVideos: [],
       filters: {
         title: '',
         dateRange: {
@@ -55,8 +55,12 @@ export default {
       }
     };
   },
+  created() {
+    this.filteredVideos = this.videos.sort((a, b) => new Date(b.date) - new Date(a.date));
+  },
   methods: {
     applyFilters(filters) {
+      this.filters = filters;
       this.filteredVideos = this.videos.filter(video => {
         const matchesTitle = video.title.toLowerCase().includes(filters.title.toLowerCase());
         const matchesDateRange = (!filters.dateRange.start || new Date(video.date) >= new Date(filters.dateRange.start)) &&
@@ -67,12 +71,12 @@ export default {
         const matchesLevel = !filters.levels.length || filters.levels.some(level => video.level.includes(level));
         
         return matchesTitle && matchesDateRange && matchesDanceType && matchesLessonType && matchesTeachers && matchesLevel;
-      });
+      }).sort((a, b) => new Date(b.date) - new Date(a.date));
     }
   }
 };
 </script>
 
 <style scoped>
-/* Add styles here if needed */
+
 </style>
