@@ -7,7 +7,8 @@
       "danceType": ["Bachata"],
       "lessonType": "Taller",
       "teachers": ["Pepe", "Tania"],
-      "level": "Inicio"
+      "level": "Inicio",
+      "iframe": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OiUq_dY8wpU?si=niComb_ptUZxjafE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     {
       "id": "2",

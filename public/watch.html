@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Watch Video</title>
+</head>
+<body>
+  <div id="app">
+    <h1>Watch Video</h1>
+    <p id="video-details"></p>
+    <div id="video-container"></div>
+  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const params = new URLSearchParams(window.location.search);
+      const id = params.get('id');
+      // Fetch video details based on ID, e.g., from a JSON file or API
+      fetch('/data/videos.json')
+        .then(response => response.json())
+        .then(videos => {
+          const video = videos.find(v => v.id === id);
+          if (video) {
+            document.getElementById('video-details').innerText = `${video.title} - ${video.danceType.join(", ")}`;
+            document.getElementById('video-container').innerHTML = video.iframe;
+          }
+        });
+    });
+  </script>
+</body>
+</html>
