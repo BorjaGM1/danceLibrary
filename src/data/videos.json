@@ -1,82 +1,83 @@
 [
-    {
-      "id": "1",
-      "title": "Bachata Conexiones 01",
-      "url": "https://youtu.be/OiUq_dY8wpU",
-      "date": "2024-06-01",
-      "danceType": ["Bachata"],
-      "lessonType": "Taller",
-      "teachers": ["Pepe", "Tania"],
-      "level": "Inicio"
-    },
-    {
-      "id": "2",
-      "title": "Bachata Conexiones 02",
-      "url": "https://youtube.com/shorts/cabwBLGoGyw",
-      "date": "2024-06-01",
-      "danceType": ["Bachata"],
-      "lessonType": "Taller",
-      "teachers": ["Pepe", "Tania"],
-      "level": "Inicio"
-    },
-    {
-      "id": "3",
-      "title": "Bachata Conexiones 03",
-      "url": "https://youtu.be/z-LBbIxjey0",
-      "date": "2024-06-01",
-      "danceType": ["Bachata"],
-      "lessonType": "Taller",
-      "teachers": ["Pepe", "Tania"],
-      "level": "Inicio"
-    },
-    {
-      "id": "4",
-      "title": "Men Style 01",
-      "url": "https://youtu.be/Yk9FfcaOWMY",
-      "date": "2024-06-01",
-      "danceType": ["Bachata", "Men Style"],
-      "lessonType": "Taller",
-      "teachers": ["Pepe", "Robert"],
-      "level": "Inicio"
-    },
-    {
-      "id": "5",
-      "title": "Men Style 02",
-      "url": "https://youtube.com/shorts/rph39nQLFYg",
-      "date": "2024-06-01",
-      "danceType": ["Bachata", "Men Style"],
-      "lessonType": "Taller",
-      "teachers": ["Pepe", "Robert"],
-      "level": "Inicio"
-    },
-    {
-      "id": "6",
-      "title": "TenicaGiros",
-      "url": "https://youtu.be/SQ4ATLWfYLI",
-      "date": "2024-06-01",
-      "danceType": ["Bachata", "Salsa", "Giros"],
-      "lessonType": "Taller",
-      "teachers": ["Crespo", "Marina"],
-      "level": "Inicio"
-    },
-    {
-      "id": "7",
-      "title": "BachataSensual01",
-      "url": "https://youtu.be/DpPU9mCJ4GI",
-      "date": "2024-06-01",
-      "danceType": ["Bachata", "Bachata Sensual"],
-      "lessonType": "Taller",
-      "teachers": ["Angela", "Pepe"],
-      "level": "Inicio"
-    },
-    {
-      "id": "8",
-      "title": "BachataSensual02",
-      "url": "https://youtu.be/IJcOKiQm-0Q",
-      "date": "2024-06-01",
-      "danceType": ["Bachata", "Bachata Sensual"],
-      "lessonType": "Taller",
-      "teachers": ["Angela", "Pepe"],
-      "level": "Inicio"
-    }
-  ]
+  {
+    "id": "1",
+    "title": "Bachata Conexiones 01",
+    "url": "https://youtu.be/OiUq_dY8wpU",
+    "date": "2024-06-01",
+    "danceType": ["Bachata"],
+    "lessonType": "Taller",
+    "teachers": ["Pepe", "Tania"],
+    "level": ["Inicio"],
+    "iframe": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OiUq_dY8wpU?si=niComb_ptUZxjafE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  {
+    "id": "2",
+    "title": "Bachata Conexiones 02",
+    "url": "https://youtube.com/shorts/cabwBLGoGyw",
+    "date": "2024-06-01",
+    "danceType": ["Bachata"],
+    "lessonType": "Taller",
+    "teachers": ["Pepe", "Tania"],
+    "level": ["Inicio", "FtB Inicio"]
+  },
+  {
+    "id": "3",
+    "title": "Bachata Conexiones 03",
+    "url": "https://youtu.be/z-LBbIxjey0",
+    "date": "2024-06-01",
+    "danceType": ["Bachata"],
+    "lessonType": "Taller",
+    "teachers": ["Pepe", "Tania"],
+    "level": ["Inicio"]
+  },
+  {
+    "id": "4",
+    "title": "Men Style 01",
+    "url": "https://youtu.be/Yk9FfcaOWMY",
+    "date": "2024-06-01",
+    "danceType": ["Bachata", "Men Style"],
+    "lessonType": "Taller",
+    "teachers": ["Pepe", "Robert"],
+    "level": ["Inicio"]
+  },
+  {
+    "id": "5",
+    "title": "Men Style 02",
+    "url": "https://youtube.com/shorts/rph39nQLFYg",
+    "date": "2024-06-01",
+    "danceType": ["Bachata", "Men Style"],
+    "lessonType": "Taller",
+    "teachers": ["Pepe", "Robert"],
+    "level": ["Inicio"]
+  },
+  {
+    "id": "6",
+    "title": "TenicaGiros",
+    "url": "https://youtu.be/SQ4ATLWfYLI",
+    "date": "2024-06-01",
+    "danceType": ["Bachata", "Salsa", "Giros"],
+    "lessonType": "Taller",
+    "teachers": ["Crespo", "Marina"],
+    "level": ["Inicio"]
+  },
+  {
+    "id": "7",
+    "title": "BachataSensual01",
+    "url": "https://youtu.be/DpPU9mCJ4GI",
+    "date": "2024-06-01",
+    "danceType": ["Bachata", "Bachata Sensual"],
+    "lessonType": "Taller",
+    "teachers": ["Angela", "Pepe"],
+    "level": ["Inicio"]
+  },
+  {
+    "id": "8",
+    "title": "BachataSensual02",
+    "url": "https://youtu.be/IJcOKiQm-0Q",
+    "date": "2024-06-01",
+    "danceType": ["Bachata", "Bachata Sensual"],
+    "lessonType": "Taller",
+    "teachers": ["Angela", "Pepe"],
+    "level": ["Inicio"]
+  }
+]

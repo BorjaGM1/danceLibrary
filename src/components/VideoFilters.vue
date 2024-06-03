@@ -76,7 +76,7 @@ export default {
       return [...new Set(videos.flatMap(video => video.teachers))];
     },
     uniqueLevels() {
-      return [...new Set(videos.map(video => video.level))];
+      return [...new Set(videos.flatMap(video => video.level))];
     }
   },
   methods: {

@@ -6,7 +6,7 @@
       <p class="card-text"><strong>Tipo lección:</strong> {{ video.lessonType }}</p>
       <p class="card-text"><strong>Fecha:</strong> {{ new Date(video.date).toLocaleDateString() }}</p>
       <p class="card-text"><strong>Profesores:</strong> {{ video.teachers.join(", ") }}</p>
-      <p class="card-text"><strong>Nivel:</strong> {{ video.level }}</p>
+      <p class="card-text"><strong>Nivel:</strong> {{ video.level.join(", ") }}</p>
       <a :href="video.url" target="_blank">Ver En Youtube</a>
       <a :href="`/watch.html?id=${video.id}`" class="btn btn-primary">Ver Aquí</a>
       <!-- <a :href="`/watch/${video.id}`" class="btn btn-primary" target="_blank">Ver Video</a> -->
