@@ -1,159 +1,199 @@
 [
   {
-      "id": 1,
-      "title": "Bachata Conexiones 01",
-      "url": "https://youtu.be/OiUq_dY8wpU",
-      "date": "2024-06-03",
-      "danceType": [
-          "Bachata"
-      ],
-      "lessonType": "Taller",
-      "teachers": [
-          "Pepe",
-          "Tania"
-      ],
-      "level": [
-          "Inicio"
-      ],
-      "iFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OiUq_dY8wpU?si=0ZqDWn1pf-XlI61p\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    "id": 1,
+    "title": "Bachata Conexiones 01",
+    "url": "https://youtu.be/OiUq_dY8wpU",
+    "date": "2024-06-01",
+    "danceType": [
+      "Bachata"
+    ],
+    "lessonType": "Taller",
+    "teachers": [
+      "Pepe",
+      "Tania"
+    ],
+    "level": [
+      "Inicio"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/OiUq_dY8wpU?si=0ZqDWn1pf-XlI61p\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
   },
   {
-      "id": 2,
-      "title": "Bachata Conexiones 02",
-      "url": "https://youtube.com/shorts/cabwBLGoGyw",
-      "date": "2024-06-01",
-      "danceType": [
-          "Bachata"
-      ],
-      "lessonType": "Taller",
-      "teachers": [
-          "Pepe",
-          "Tania"
-      ],
-      "level": [
-          "Inicio",
-          "FtB Inicio"
-      ],
-      "iFrame": "<iframe width=\"560\" height=\"315\" src=\"https://youtube.com/embed/cabwBLGoGyw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    "id": 2,
+    "title": "Bachata Conexiones 02",
+    "url": "https://youtube.com/shorts/cabwBLGoGyw",
+    "date": "2024-06-01",
+    "danceType": [
+      "Bachata"
+    ],
+    "lessonType": "Taller",
+    "teachers": [
+      "Pepe",
+      "Tania"
+    ],
+    "level": [
+      "Inicio",
+      "FtB Inicio"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://youtube.com/embed/cabwBLGoGyw\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
   },
   {
-      "id": 3,
-      "title": "Bachata Conexiones 03",
-      "url": "https://youtu.be/z-LBbIxjey0",
-      "date": "2024-06-01",
-      "danceType": [
-          "Bachata"
-      ],
-      "lessonType": "Taller",
-      "teachers": [
-          "Pepe",
-          "Tania"
-      ],
-      "level": [
-          "Inicio",
-          "FtB Inicio"
-      ],
-      "iFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/z-LBbIxjey0?si=WHkw6dQAKKt9ysm9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    "id": 3,
+    "title": "Bachata Conexiones 03",
+    "url": "https://youtu.be/z-LBbIxjey0",
+    "date": "2024-06-01",
+    "danceType": [
+      "Bachata"
+    ],
+    "lessonType": "Taller",
+    "teachers": [
+      "Pepe",
+      "Tania"
+    ],
+    "level": [
+      "Inicio",
+      "FtB Inicio"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/z-LBbIxjey0?si=WHkw6dQAKKt9ysm9\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
   },
   {
-      "id": 4,
-      "title": "Men Style 01",
-      "url": "https://www.youtube.com/watch?v=Yk9FfcaOWMY",
-      "date": "2024-06-01",
-      "danceType": [
-          "Bachata",
-          "Men Style"
-      ],
-      "lessonType": "Taller",
-      "teachers": [
-          "Pepe",
-          "Robert"
-      ],
-      "level": [
-          "Inicio",
-          "FtB Inicio"
-      ],
-      "iFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Yk9FfcaOWMY?si=W623kunMkMxtov4E\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    "id": 4,
+    "title": "Men Style 01",
+    "url": "https://www.youtube.com/watch?v=Yk9FfcaOWMY",
+    "date": "2024-06-01",
+    "danceType": [
+      "Bachata",
+      "Men Style"
+    ],
+    "lessonType": "Taller",
+    "teachers": [
+      "Pepe",
+      "Robert"
+    ],
+    "level": [
+      "Inicio",
+      "FtB Inicio"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/Yk9FfcaOWMY?si=W623kunMkMxtov4E\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
   },
   {
-      "id": 5,
-      "title": "Men Style 02",
-      "url": "https://www.youtube.com/shorts/rph39nQLFYg",
-      "date": "2024-06-01",
-      "danceType": [
-          "Bachata",
-          "Men Style"
-      ],
-      "lessonType": "Taller",
-      "teachers": [
-          "Pepe",
-          "Robert"
-      ],
-      "level": [
-          "Inicio",
-          "FtB Inicio"
-      ],
-      "iFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rph39nQLFYg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    "id": 5,
+    "title": "Men Style 02",
+    "url": "https://www.youtube.com/shorts/rph39nQLFYg",
+    "date": "2024-06-01",
+    "danceType": [
+      "Bachata",
+      "Men Style"
+    ],
+    "lessonType": "Taller",
+    "teachers": [
+      "Pepe",
+      "Robert"
+    ],
+    "level": [
+      "Inicio",
+      "FtB Inicio"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/rph39nQLFYg\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
   },
   {
-      "id": 6,
-      "title": "TenicaGiros",
-      "url": "https://youtu.be/SQ4ATLWfYLI",
-      "date": "2024-06-01",
-      "danceType": [
-          "Bachata",
-          "Salsa",
-          "Giros"
-      ],
-      "lessonType": "Taller",
-      "teachers": [
-          "Crespo",
-          "Marina"
-      ],
-      "level": [
-          "Inicio",
-          "FtB Inicio"
-      ],
-      "iFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/SQ4ATLWfYLI?si=h6ppzD0WvXSkRvmQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    "id": 6,
+    "title": "TenicaGiros",
+    "url": "https://youtu.be/SQ4ATLWfYLI",
+    "date": "2024-06-01",
+    "danceType": [
+      "Bachata",
+      "Salsa",
+      "Giros"
+    ],
+    "lessonType": "Taller",
+    "teachers": [
+      "Crespo",
+      "Marina"
+    ],
+    "level": [
+      "Inicio",
+      "FtB Inicio"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/SQ4ATLWfYLI?si=h6ppzD0WvXSkRvmQ\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
   },
   {
-      "id": 7,
-      "title": "BachataSensual01",
-      "url": "https://youtu.be/DpPU9mCJ4GI",
-      "date": "2024-06-01",
-      "danceType": [
-          "Bachata",
-          "Bachata Sensual"
-      ],
-      "lessonType": "Taller",
-      "teachers": [
-          "Angela",
-          "Pepe"
-      ],
-      "level": [
-          "Inicio",
-          "FtB Inicio"
-      ],
-      "iFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DpPU9mCJ4GI?si=AXOOZEMGjLGiLLJG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    "id": 7,
+    "title": "BachataSensual01",
+    "url": "https://youtu.be/DpPU9mCJ4GI",
+    "date": "2024-06-01",
+    "danceType": [
+      "Bachata",
+      "Bachata Sensual"
+    ],
+    "lessonType": "Taller",
+    "teachers": [
+      "Angela",
+      "Pepe"
+    ],
+    "level": [
+      "Inicio",
+      "FtB Inicio"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/DpPU9mCJ4GI?si=AXOOZEMGjLGiLLJG\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
   },
   {
-      "id": 8,
-      "title": "BachataSensual02",
-      "url": "https://youtu.be/DpPU9mCJ4GI",
-      "date": "2024-06-01",
-      "danceType": [
-          "Bachata",
-          "Bachata Sensual"
-      ],
-      "lessonType": "Taller",
-      "teachers": [
-          "Angela",
-          "Pepe"
-      ],
-      "level": [
-          "Inicio",
-          "FtB Inicio"
-      ],
-      "iFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IJcOKiQm-0Q?si=AVl2t958DKPgbh1G\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    "id": 8,
+    "title": "BachataSensual02",
+    "url": "https://youtu.be/DpPU9mCJ4GI",
+    "date": "2024-06-01",
+    "danceType": [
+      "Bachata",
+      "Bachata Sensual"
+    ],
+    "lessonType": "Taller",
+    "teachers": [
+      "Angela",
+      "Pepe"
+    ],
+    "level": [
+      "Inicio",
+      "FtB Inicio"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/IJcOKiQm-0Q?si=AVl2t958DKPgbh1G\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
+  },
+  {
+    "id": 9,
+    "title": "Bachata MF Rompe a Sombre 20240528",
+    "url": "https://www.youtube.com/watch?v=UnwvC0DRySM",
+    "date": "2024-05-28",
+    "danceType": [
+      "Bachata"
+    ],
+    "lessonType": "Clase",
+    "teachers": [
+      "Esteban",
+      "Inma",
+      "EstebanEInma"
+    ],
+    "level": [
+      "Inicio",
+      "MF01"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/UnwvC0DRySM?si=XuVAFyLHSUTf0Snd\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
+  },
+  {
+    "id": 10,
+    "title": "Salsa MF Varios 20240528",
+    "url": "https://www.youtube.com/watch?v=-qznGo25N1A",
+    "date": "2024-05-28",
+    "danceType": [
+      "Salsa"
+    ],
+    "lessonType": "Clase",
+    "teachers": [
+      "Pedro",
+      "Maria Jose",
+      "PedroYMariaJose"
+    ],
+    "level": [
+      "Inicio",
+      "MF01"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/-qznGo25N1A?si=UZm6qbuY1hDG14Kw\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
   }
 ]
