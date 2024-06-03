@@ -1,83 +1,159 @@
 [
   {
-    "id": "1",
-    "title": "Bachata Conexiones 01",
-    "url": "https://youtu.be/OiUq_dY8wpU",
-    "date": "2024-06-01",
-    "danceType": ["Bachata"],
-    "lessonType": "Taller",
-    "teachers": ["Pepe", "Tania"],
-    "level": ["Inicio"],
-    "iframe": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OiUq_dY8wpU?si=niComb_ptUZxjafE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      "Id": 1,
+      "Title": "Bachata Conexiones 01",
+      "Url": "https://youtu.be/OiUq_dY8wpU",
+      "Date": "2024-06-03",
+      "DanceType": [
+          "Bachata"
+      ],
+      "LessonType": "Taller",
+      "Teachers": [
+          "Pepe",
+          "Tania"
+      ],
+      "Level": [
+          "Inicio"
+      ],
+      "IFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OiUq_dY8wpU?si=0ZqDWn1pf-XlI61p\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
   },
   {
-    "id": "2",
-    "title": "Bachata Conexiones 02",
-    "url": "https://youtube.com/shorts/cabwBLGoGyw",
-    "date": "2024-06-01",
-    "danceType": ["Bachata"],
-    "lessonType": "Taller",
-    "teachers": ["Pepe", "Tania"],
-    "level": ["Inicio", "FtB Inicio"]
+      "Id": 2,
+      "Title": "Bachata Conexiones 02",
+      "Url": "https://youtube.com/shorts/cabwBLGoGyw",
+      "Date": "2024-06-01",
+      "DanceType": [
+          "Bachata"
+      ],
+      "LessonType": "Taller",
+      "Teachers": [
+          "Pepe",
+          "Tania"
+      ],
+      "Level": [
+          "Inicio",
+          "FtB Inicio"
+      ],
+      "IFrame": "<iframe width=\"560\" height=\"315\" src=\"https://youtube.com/embed/cabwBLGoGyw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
   },
   {
-    "id": "3",
-    "title": "Bachata Conexiones 03",
-    "url": "https://youtu.be/z-LBbIxjey0",
-    "date": "2024-06-01",
-    "danceType": ["Bachata"],
-    "lessonType": "Taller",
-    "teachers": ["Pepe", "Tania"],
-    "level": ["Inicio"]
+      "Id": 3,
+      "Title": "Bachata Conexiones 03",
+      "Url": "https://youtu.be/z-LBbIxjey0",
+      "Date": "2024-06-01",
+      "DanceType": [
+          "Bachata"
+      ],
+      "LessonType": "Taller",
+      "Teachers": [
+          "Pepe",
+          "Tania"
+      ],
+      "Level": [
+          "Inicio",
+          "FtB Inicio"
+      ],
+      "IFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/z-LBbIxjey0?si=WHkw6dQAKKt9ysm9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
   },
   {
-    "id": "4",
-    "title": "Men Style 01",
-    "url": "https://youtu.be/Yk9FfcaOWMY",
-    "date": "2024-06-01",
-    "danceType": ["Bachata", "Men Style"],
-    "lessonType": "Taller",
-    "teachers": ["Pepe", "Robert"],
-    "level": ["Inicio"]
+      "Id": 4,
+      "Title": "Men Style 01",
+      "Url": "https://www.youtube.com/watch?v=Yk9FfcaOWMY",
+      "Date": "2024-06-01",
+      "DanceType": [
+          "Bachata",
+          "Men Style"
+      ],
+      "LessonType": "Taller",
+      "Teachers": [
+          "Pepe",
+          "Robert"
+      ],
+      "Level": [
+          "Inicio",
+          "FtB Inicio"
+      ],
+      "IFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Yk9FfcaOWMY?si=W623kunMkMxtov4E\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
   },
   {
-    "id": "5",
-    "title": "Men Style 02",
-    "url": "https://youtube.com/shorts/rph39nQLFYg",
-    "date": "2024-06-01",
-    "danceType": ["Bachata", "Men Style"],
-    "lessonType": "Taller",
-    "teachers": ["Pepe", "Robert"],
-    "level": ["Inicio"]
+      "Id": 5,
+      "Title": "Men Style 02",
+      "Url": "https://www.youtube.com/shorts/rph39nQLFYg",
+      "Date": "2024-06-01",
+      "DanceType": [
+          "Bachata",
+          "Men Style"
+      ],
+      "LessonType": "Taller",
+      "Teachers": [
+          "Pepe",
+          "Robert"
+      ],
+      "Level": [
+          "Inicio",
+          "FtB Inicio"
+      ],
+      "IFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rph39nQLFYg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
   },
   {
-    "id": "6",
-    "title": "TenicaGiros",
-    "url": "https://youtu.be/SQ4ATLWfYLI",
-    "date": "2024-06-01",
-    "danceType": ["Bachata", "Salsa", "Giros"],
-    "lessonType": "Taller",
-    "teachers": ["Crespo", "Marina"],
-    "level": ["Inicio"]
+      "Id": 6,
+      "Title": "TenicaGiros",
+      "Url": "https://youtu.be/SQ4ATLWfYLI",
+      "Date": "2024-06-01",
+      "DanceType": [
+          "Bachata",
+          "Salsa",
+          "Giros"
+      ],
+      "LessonType": "Taller",
+      "Teachers": [
+          "Crespo",
+          "Marina"
+      ],
+      "Level": [
+          "Inicio",
+          "FtB Inicio"
+      ],
+      "IFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/SQ4ATLWfYLI?si=h6ppzD0WvXSkRvmQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
   },
   {
-    "id": "7",
-    "title": "BachataSensual01",
-    "url": "https://youtu.be/DpPU9mCJ4GI",
-    "date": "2024-06-01",
-    "danceType": ["Bachata", "Bachata Sensual"],
-    "lessonType": "Taller",
-    "teachers": ["Angela", "Pepe"],
-    "level": ["Inicio"]
+      "Id": 7,
+      "Title": "BachataSensual01",
+      "Url": "https://youtu.be/DpPU9mCJ4GI",
+      "Date": "2024-06-01",
+      "DanceType": [
+          "Bachata",
+          "Bachata Sensual"
+      ],
+      "LessonType": "Taller",
+      "Teachers": [
+          "Angela",
+          "Pepe"
+      ],
+      "Level": [
+          "Inicio",
+          "FtB Inicio"
+      ],
+      "IFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DpPU9mCJ4GI?si=AXOOZEMGjLGiLLJG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
   },
   {
-    "id": "8",
-    "title": "BachataSensual02",
-    "url": "https://youtu.be/IJcOKiQm-0Q",
-    "date": "2024-06-01",
-    "danceType": ["Bachata", "Bachata Sensual"],
-    "lessonType": "Taller",
-    "teachers": ["Angela", "Pepe"],
-    "level": ["Inicio"]
+      "Id": 8,
+      "Title": "BachataSensual02",
+      "Url": "https://youtu.be/DpPU9mCJ4GI",
+      "Date": "2024-06-01",
+      "DanceType": [
+          "Bachata",
+          "Bachata Sensual"
+      ],
+      "LessonType": "Taller",
+      "Teachers": [
+          "Angela",
+          "Pepe"
+      ],
+      "Level": [
+          "Inicio",
+          "FtB Inicio"
+      ],
+      "IFrame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IJcOKiQm-0Q?si=AVl2t958DKPgbh1G\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
   }
 ]
