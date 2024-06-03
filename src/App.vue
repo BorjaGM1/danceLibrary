@@ -7,7 +7,6 @@
 
 <script>
 import MainVideoLibrary from './components/MainVideoLibrary.vue';
-import { RouterView } from 'vue-router';
 
 export default {
   name: 'App',
