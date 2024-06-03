@@ -19,10 +19,10 @@
       fetch('/data/videos.json')
         .then(response => response.json())
         .then(videos => {
-          const video = videos.find(v => v.id === id);
+          const video = videos.find(v => v.id == id);
           if (video) {
             document.getElementById('video-details').innerText = `${video.title} - ${video.danceType.join(", ")}`;
-            document.getElementById('video-container').innerHTML = video.iframe;
+            document.getElementById('video-container').innerHTML = video.iFrame;
           }
         });
     });
