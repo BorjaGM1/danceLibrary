@@ -195,5 +195,45 @@
       "MF01"
     ],
     "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/-qznGo25N1A?si=UZm6qbuY1hDG14Kw\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
+  },
+  {
+    "id": 11,
+    "title": "Bachata MF - Giro Sombra Rompe Lateral 20240521",
+    "url": "https://youtu.be/w1u4jOj5-dQ",
+    "date": "2024-05-21",
+    "danceType": [
+      "Bachata"
+    ],
+    "lessonType": "Clase",
+    "teachers": [
+      "Esteban",
+      "Inma",
+      "EstebanEInma"
+    ],
+    "level": [
+      "Inicio",
+      "MF01"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/w1u4jOj5-dQ?si=B4rUjmcO26mXEKf6\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
+  },
+  {
+    "id": 12,
+    "title": "Salsa MF - Cross Lateral 20240521",
+    "url": "https://www.youtube.com/watch?v=O3ic6PWkvX0",
+    "date": "2024-05-21",
+    "danceType": [
+      "Salsa"
+    ],
+    "lessonType": "Clase",
+    "teachers": [
+      "Pedro",
+      "Maria Jose",
+      "PedroYMariaJose"
+    ],
+    "level": [
+      "Inicio",
+      "MF01"
+    ],
+    "iFrame": "\u003Ciframe width=\u0022560\u0022 height=\u0022315\u0022 src=\u0022https://www.youtube.com/embed/O3ic6PWkvX0?si=AxqPiDgxX12FWtaR\u0022 title=\u0022YouTube video player\u0022 frameborder=\u00220\u0022 allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
   }
 ]
